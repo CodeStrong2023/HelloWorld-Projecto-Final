@@ -8,4 +8,4 @@ Cada jugador cuenta con número de 3 fichas, las cuales deberan ser colocadas tu
 
 ### [Acceso al repositorio principal](https://github.com/CodeStrong2023/HelloWorld)
 
-### [Acceso al video en un drive]()
+### [Acceso al video en un drive](https://drive.google.com/file/d/1-Cz6DOiJFGLjcDTrr-n8d0qzLJOrBq7K/view)
